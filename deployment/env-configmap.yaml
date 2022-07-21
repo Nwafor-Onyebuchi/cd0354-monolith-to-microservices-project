@@ -3,9 +3,9 @@ kind: ConfigMap
 metadata:
   name: env-config
 data:
-  POSTGRES_USERNAME: buchi
-  POSTGRES_PASSWORD: udagram-buchi
-  POSTGRES_HOST: udagram-database-dev.cqhcbr55a0mk.us-east-1.rds.amazonaws.com
+  POSTGRES_USERNAME: postgres
+  POSTGRES_PASSWORD: buchi123
+  POSTGRES_HOST: udagram-11812478821.cjio6sw0amvl.us-east-1.rds.amazonaws.com
   POSTGRES_DB: postgres
   AWS_BUCKET: arn:aws:s3:::udagram-11812478821-dev
   AWS_REGION: us-east-1
