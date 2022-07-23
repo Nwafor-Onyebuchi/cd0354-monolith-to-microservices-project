@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: docker.io/buchilazarus/udagram-frontend:v4
+        image: docker.io/buchilazarus/udagram-frontend:v5
         ports: 
         - containerPort: 80
         resources:
