@@ -39,6 +39,7 @@ import {V0_FEED_MODELS} from './controllers/v0/model.index';
 
   // Root URI call
   app.get( '/', async ( req, res ) => {
+    console.log(config)
     res.send( '/api/v0/' );
   } );
 
