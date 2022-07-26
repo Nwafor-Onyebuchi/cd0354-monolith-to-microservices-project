@@ -5,9 +5,9 @@ metadata:
 data:
   POSTGRES_USERNAME: postgres
   POSTGRES_PASSWORD: buchi123
-  POSTGRES_HOST: udagram-11812478821.cjio6sw0amvl.us-east-1.rds.amazonaws.com
+  POSTGRES_HOST: database-1.ciglgusdcyry.us-east-1.rds.amazonaws.com
   POSTGRES_DB: postgres
-  AWS_BUCKET: udagram-11812478821-dev
+  AWS_BUCKET: udagram-bucket-11812478821
   AWS_REGION: us-east-1
   AWS_PROFILE: default
   JWT_SECRET: jsakjnkjsdvjjks
